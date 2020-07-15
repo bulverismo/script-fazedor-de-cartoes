@@ -1,0 +1,3 @@
+PRIMEIRO CAMPO É UMA PERGUNTA;segundo campo é uma resposta.
+PRIMEIRO CAMPO É UMA PERGUNTA 2;segundo campo é uma resposta 2.
+PRIMEIRO CAMPO É UMA PERGUNTA 3;segundo campo é uma resposta 3.
